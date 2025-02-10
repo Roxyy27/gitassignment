@@ -7,12 +7,3 @@ Reference https://www.programiz.com/javascript/let-vs-var
 In a Boolean context, a value is considered falsy if it evaluates to false. False, Zero, Negative Zero, 0n, An empty string, Null, Undefined, and NaN are the six falsy values existing in JavaScript. If statements containing any of the falsy values will result in the code block being ignored. Knowing falsy values in JavaScript is necessary for correct conditional logic. 
 
 Reference https://www.freecodecamp.org/news/falsy-values-in-javascript/
-
-
-
-
-
-
-
-
-
