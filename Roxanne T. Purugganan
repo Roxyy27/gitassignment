@@ -1,0 +1,18 @@
+1. Differentiation of let, const, and var in JavaScript 
+The major distinctions are in the range and changeability. Var can be re-declared and reassigned, hence it has function scope. Let can only be reassigned which means it has block scope and cannot be re-declared. Const can be set only once, thus preventing re-assignment, which gives const block scope. Also, for the purpose of clarity and avoiding errors, coding standards prefer using const and let over var.
+
+Reference https://www.programiz.com/javascript/let-vs-var
+
+2. Concept of Falsy Values in JavaScript
+In a Boolean context, a value is considered falsy if it evaluates to false. False, Zero, Negative Zero, 0n, An empty string, Null, Undefined, and NaN are the six falsy values existing in JavaScript. If statements containing any of the falsy values will result in the code block being ignored. Knowing falsy values in JavaScript is necessary for correct conditional logic. 
+
+Reference https://www.freecodecamp.org/news/falsy-values-in-javascript/
+
+
+
+
+
+
+
+
+
